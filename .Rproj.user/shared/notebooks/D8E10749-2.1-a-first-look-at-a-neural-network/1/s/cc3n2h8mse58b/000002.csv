@@ -1,0 +1,7 @@
+"0","```r
+network %>% compile(
+  optimizer = \"rmsprop\",
+  loss = \"categorical_crossentropy\",
+  metrics = c(\"accuracy\")
+)
+```"

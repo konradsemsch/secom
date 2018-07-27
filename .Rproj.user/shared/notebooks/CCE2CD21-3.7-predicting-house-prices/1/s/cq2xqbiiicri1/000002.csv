@@ -1,0 +1,4 @@
+"0","```r
+# Some memory clean-up
+k_clear_session()
+```"

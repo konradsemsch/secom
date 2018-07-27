@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532692127201.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A787C6A4",
+    "lastKnownWriteTime" : 1532692336,
+    "last_content_update" : 1532692337004,
+    "path" : "C:/Users/Konrad/Google Drive (konrad.semsch@gmail.com)/DS&ML/R/Secom/Secom_PCA_RF.R",
+    "project_path" : "Secom_PCA_RF.R",
+    "properties" : {
+        "cursorPosition" : "123,51",
+        "scrollLine" : "81",
+        "source_window_id" : ""
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

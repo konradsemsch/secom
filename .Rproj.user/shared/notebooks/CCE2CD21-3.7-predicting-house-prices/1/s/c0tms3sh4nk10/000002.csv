@@ -1,0 +1,9 @@
+"0","```r
+library(keras)
+dataset <- dataset_boston_housing()
+```"
+"1","Using TensorFlow backend.
+"
+"0","```r
+c(c(train_data, train_targets), c(test_data, test_targets)) %<-% dataset
+```"

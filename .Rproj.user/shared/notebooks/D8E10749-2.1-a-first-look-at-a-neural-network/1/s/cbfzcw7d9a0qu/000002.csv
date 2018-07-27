@@ -1,0 +1,10 @@
+"0","```r
+metrics <- network %>% evaluate(test_images, test_labels, verbose = 0)
+metrics
+```"
+"1","$loss
+[1] 0.06711107
+
+$acc
+[1] 0.9807
+"
